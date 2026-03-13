@@ -15,4 +15,5 @@
   <Project Path="7/7.csproj" />
   <Project Path="8/8.csproj" />
   <Project Path="9/9.csproj" />
+  <Project Path="E17/E17.csproj" />
 </Solution>
